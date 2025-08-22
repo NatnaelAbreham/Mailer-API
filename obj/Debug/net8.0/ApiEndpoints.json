@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MailerApi.Controllers.MailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Mail/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MailerApi.Models.MailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
